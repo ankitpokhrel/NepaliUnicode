@@ -17,13 +17,13 @@ A Unicode Nepali Conversion Tool. This tool uses Google Transliteration API to c
 2. Add init.js to your page
 3. Add
 
-<pre>
 <code>
 <div id="converter">  
   <div id='toolbar'> </div>
+
   <div id='editMe'> </div>
+
 </div>
 </code>
-</pre>
 
 to your page wherever you want this app to appear.
