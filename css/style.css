@@ -1,0 +1,52 @@
+div#converter{
+    width: 960px;
+}
+
+div#converter div#toolbar {
+    border: 1px solid #ccc;
+    border-bottom: 0;
+    width: 960px;
+}
+
+div#converter #editMe {
+    width:960px;
+    height: 500px;
+    background-color: white;
+    border: 1px solid #ccc;  
+}
+
+div#converter .about-img{
+    background: transparent url(../img/info.png) no-repeat;
+    width: 20px;
+    height: 20px;
+}
+
+div#converter div#msg{
+    width: 360px;
+    border: 1px solid #eee;
+    background: #000;
+    opacity: .6;
+    color: #fff;
+    padding: 10px;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: -370px;       
+    box-shadow: -3px 3px 3px #333;      
+}
+
+div#converter div#msg p{
+    text-align: justify; 
+}
+
+div#converter div#msg a{
+    color: #e2a81b;
+    text-decoration: none;
+}
+
+div#converter div#msg a:hover{
+    text-decoration: underline;  
+}
+
+div#converter div#msg h3{
+    color: #fff;
+}
