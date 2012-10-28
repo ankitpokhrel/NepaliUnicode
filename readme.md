@@ -21,12 +21,11 @@ The Google Closure Library is used for Rich Text Editor interface.
 2. Add init.js to your page
 3. Add
 
-```
+```html
 <div id="converter">  
   <div id='toolbar'> </div>
   <div id='editMe'> </div>
 </div>
-
 ```
 
 to your page wherever you want this app to appear.
