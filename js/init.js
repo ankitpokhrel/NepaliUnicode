@@ -20,4 +20,3 @@ loadScript("js/ap.unicodeNepali.js");
 loadScript("http://www.google.com/jsapi");
 loadScript("https://closure-library.googlecode.com/svn/trunk/closure/goog/base.js");
 loadScript("js/load.js");
-loadScript("js/colorPallete.js");
