@@ -1,4 +1,4 @@
-function init() {
+;function init() {
     // Create an editable field.
     var myField = new goog.editor.Field('editMe');
 
@@ -10,12 +10,12 @@ function init() {
     myField.registerPlugin(new goog.editor.plugins.SpacesTabHandler());
     myField.registerPlugin(new goog.editor.plugins.EnterHandler());
     myField.registerPlugin(new goog.editor.plugins.HeaderFormatter());
-    myField.registerPlugin(new goog.editor.plugins.LoremIpsum('Click here to edit'));
+    myField.registerPlugin(new goog.editor.plugins.LoremIpsum('Write here...'));
     myField.registerPlugin(new goog.editor.plugins.LinkDialogPlugin());
     myField.registerPlugin(new goog.editor.plugins.LinkBubble());
 
     // Create a toolbar button for Transliteration.
-    var translitButton = goog.ui.editor.ToolbarFactory.makeToggleButton('toggleTransliteration', 'Switch Nepali/English (CTRL + G)', "NP", 'goog-inline-block goog-transliterate-img goog-transliterate-img-button-ne translitButton');
+    var translitButton = goog.ui.editor.ToolbarFactory.makeToggleButton('toggleTransliteration', 'Switch Nepali/English (CTRL + L)', "NP", 'goog-inline-block goog-transliterate-img goog-transliterate-img-button-ne translitButton');
     var aboutButton = goog.ui.editor.ToolbarFactory.makeButton('buttonAbout', null, null, 'about-img');
 
     // Specify the buttons to add to the toolbar, using built in default buttons.
@@ -31,7 +31,7 @@ function init() {
     var options = {
         sourceLanguage : 'en',
         destinationLanguage : ['ne'],
-        shortcutKey : 'ctrl+g',
+        shortcutKey : 'ctrl+l',
         transliterationEnabled : true
     };
 
@@ -61,8 +61,7 @@ function init() {
     });
 }
 
-
-$(document).ready(function() {
+;$(document).ready(function() {
     init();
     $('.about-img').hover(function() {
         var msg = "<h3>Copyright &copy; 2012 Ankit Pokhrel. All rights reserved.</h3>";
