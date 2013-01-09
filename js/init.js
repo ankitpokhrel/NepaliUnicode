@@ -2,7 +2,7 @@
  *
  * Application Name : UnicodeNepali Conversion Tool
  * Author : Ankit Pokhrel
- * Version : 1.0
+ * Version : 1.3
  * 
  */
 
