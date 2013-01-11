@@ -1,8 +1,8 @@
 /*
  *
- * Application Name : UnicodeNepali Conversion Tool
- * Author : Ankit Pokhrel
- * Version : 1.3
+ * @Application UnicodeNepali Conversion Tool
+ * @Author Ankit Pokhrel
+ * @Version 1.3
  * 
  */
 
