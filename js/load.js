@@ -1,7 +1,7 @@
 // Load the Google Transliteration API
-  google.load('elements', '1', {
-      packages : "transliteration"
-  });
+google.load('elements', '1', {
+  packages : "transliteration"
+});
   
 goog.require('goog.dom');
 goog.require('goog.editor.Command');
