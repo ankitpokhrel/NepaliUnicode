@@ -25,7 +25,8 @@ The Google Closure Library is used for Rich Text Editor interface.
 <link rel="stylesheet" href="css/base.css" />
 <script type="text/javascript" src="js/init.js"></script>
 ```
-4. Add the following HTML to your page wherever you want this app to appear.
+
+Now, add the following HTML to your page wherever you want this app to appear.
 
 ```html
 <div id="converter">  
