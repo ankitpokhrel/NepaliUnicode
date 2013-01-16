@@ -34,12 +34,12 @@ The Google Closure Library is used for Rich Text Editor interface.
 </div>
 ```
 
-CHANGELOG
+####CHANGELOG
 =========
 
-###Version 1.3
-*Fixed color pallete problem.
-*Reduced integration code.
+**Version 1.3**
+* Fixed color pallete problem.
+* Reduced integration code.
 
-###Version 1.0
-*Initial release
+**Version 1.0**
+* Initial release
