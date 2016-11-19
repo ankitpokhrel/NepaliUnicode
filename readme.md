@@ -1,14 +1,4 @@
-**Unicode Nepali Conversion Tool**
-*by [Ankit Pokhrel] (http://ankitpokhrel.com.np)*
-
-* Application Name: Unicode Nepali Conversion Tool
-* Developer: [Ankit Pokhrel] (http://ankitpokhrel.com.np)
-* Contributors: none
-* Demo: http://ankitpokhrel.com.np/demo/nepali-unicode
-* Donate link: http://ankitpokhrel.com.np/
-* Tags: Unicode Nepali, Type in Nepali, Nepali Romanized, Nepalese
-* License: GPLv3 or later
-* License URI: http://www.gnu.org/licenses/
+_This package is deprecated and not maintained_
  
 **Description**
   
