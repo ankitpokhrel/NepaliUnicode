@@ -26,7 +26,6 @@ Now, add the following HTML to your page wherever you want this app to appear.
 ```
 
 #### CHANGELOG
-==============
 
 **Version 1.3**
 * Fixed color pallete problem.
