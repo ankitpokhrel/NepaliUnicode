@@ -1,11 +1,11 @@
-_This package is deprecated and not maintained_
+> THIS PACKAGE IS DEPRECATED AND IS NOT MAINTAINED.
  
-**Description**
-  
+## Description
+  
 A Unicode Nepali Conversion Tool. This tool uses Google Transliteration API to convert English to Nepali.
 The Google Closure Library is used for Rich Text Editor interface.
 
-**Installation**
+## Installation
 
 1. Download, unzip and upload to your project directory
 2. Add init.js to your page
@@ -25,7 +25,7 @@ Now, add the following HTML to your page wherever you want this app to appear.
 </div>
 ```
 
-#### CHANGELOG
+## Changelog
 
 **Version 1.3**
 * Fixed color pallete problem.
